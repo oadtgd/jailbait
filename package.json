@@ -1,6 +1,6 @@
 {
   "name": "jailbait",
-  "version": "0.99.0",
+  "version": "1.0.0",
   "description": "protect your browser users from Self-XSS phishing attacks by displaying a clear warning message in the console",
   "main": "jailbait.js",
   "scripts": {
