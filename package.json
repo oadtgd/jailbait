@@ -1,0 +1,31 @@
+{
+  "name": "jailbait",
+  "version": "0.99.0",
+  "description": "protect your browser users from Self-XSS phishing attacks by displaying a clear warning message in the console",
+  "main": "jailbait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daplie/jailbait.git"
+  },
+  "keywords": [
+    "phishing",
+    "selfxss",
+    "self-xss",
+    "warning",
+    "hack",
+    "scam",
+    "spam",
+    "console",
+    "prevent",
+    "protect"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/Daplie/jailbait/issues"
+  },
+  "homepage": "https://github.com/Daplie/jailbait#readme"
+}
